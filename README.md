@@ -360,6 +360,7 @@ ________________________________________________________________________________
 * __hash-identifier	1.1__	Identifies the different types of hashes used to encrypt data, especially passwords	http://code.google.com/p/hash-identifier
 * __hashcat	0.47__	A multithreaded cross platform hash cracker.	http://hashcat.net/hashcat/
 * ___hashcat-utils	1.0__	Utilites for Hashcat	http://hashcat.net/wiki/doku.php?id=hashcat_utils
+* __hashcracker.py__ A simple hash cracker made with python 3 (has support for word dictionaries and bruteforce). https://github.com/Bot3939/hashcracker
 * __hasher	32.e9d1394__	A tool that allows you to quickly hash plaintext strings, or compare hashed values with a plaintext locally.	https://github.com/ChrisTruncer/Hasher
 * __hashid	2.6.0__	Software to identify the different types of hashes used to encrypt data	https://github.com/psypanda/hashID
 * __hashpump	34.0b3c286__	A tool to exploit the hash length extension attack in various hashing algorithms.	https://github.com/bwall/HashPump
